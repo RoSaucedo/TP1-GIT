@@ -1,7 +1,7 @@
-#TP GIT 
+# TP GIT 
 
-##Integrantes
+## Integrantes
 
--Rocío Saucedo
--Joaquin Bazan
+- Rocío Saucedo
+- Joaquin Bazan
 
