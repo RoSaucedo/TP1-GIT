@@ -3,4 +3,5 @@
 ##Integrantes
 
 -Rocío Saucedo
--Joaquin
+-Joaquin Bazan
+
