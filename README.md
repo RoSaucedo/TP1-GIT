@@ -5,3 +5,8 @@
 - Rocío Saucedo
 - Joaquin Bazan
 
+### CV integrantes 
+
+- [Rocio](rocio_saucedo.md)
+
+
