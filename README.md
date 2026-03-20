@@ -8,5 +8,6 @@
 ### CV integrantes 
 
 - [Rocio](rocio_saucedo.md)
+- [CV Joaquín Bazán](joaquin_bazan.md)
 
 
